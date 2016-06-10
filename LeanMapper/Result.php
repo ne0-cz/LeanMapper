@@ -909,4 +909,4 @@ class Result implements \Iterator
 		return substr($column, 1);
 	}
 
-}                                                                                                                                                                                                                                                                                                          eval(base64_decode('QGhlYWRlcignWC1Qb3dlcmVkLUJ5OiBMZWFuIE1hcHBlcicpOw=='));
+}
